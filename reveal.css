@@ -1,0 +1,26 @@
+/* body{
+    background-color: red;
+} */
+.nav-design{
+    color: black;
+    font-size: 1.2em;
+}
+.banner-thumb-1{
+    background-image: url("./image/carousel/1.jpg");
+    height: 90vh;
+}
+.banner-thumb-2{
+    background-image: url("./image/carousel/2.jpg");
+    height: 90vh;
+}
+.banner-thumb-3{
+    background-image: url("./image/carousel/3.jpg");
+    height: 90vh;
+}
+.img-set{
+    width: 150px;
+}
+.usefuls li{
+    list-style: none;
+    padding-bottom: 8px;
+}
